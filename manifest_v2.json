@@ -1,0 +1,47 @@
+{
+  "item": {
+    "id": "com.kidming.edcdial",
+    "restype": "quick_app",
+    "name": "edc拨盘",
+    "description": "把带卡位感的复古数字拨盘放进手环。数字会在拨动时沿着轨道上下走。\n\n### 玩法说明\n1. 按住拨盘往下拉。拉到底再松手，数字前进一格。中途松手，拨盘会弹回原位。\n2. 在屏幕上长按约两秒，可以在珐琅白和夜光黑两套界面之间切换。\n3. 拨动、到位和切换主题时会有震动反馈。\n\n适配小米手环 10、10 NFC、11、11 NFC。购买后，请在 AstroBox 绑定下单所用的爱发电账号。",
+    "preview": [
+      "media/01-拨到底再松手.webp",
+      "media/02-短拨自动回弹.webp",
+      "media/03-黑白双主题.webp"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.1",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 2
+    },
+    "xmb10nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 2
+    },
+    "xmb11": {
+      "version": "1.0.1",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 2
+    },
+    "xmb11nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/app.rpk",
+      "versionCode": 2
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
